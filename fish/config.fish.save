@@ -1,0 +1,12 @@
+if type -q exaq
+    alias ls 'exa --icons'
+    alias ll 'exa -l --icons'
+    alias la 'exa -la --icons'
+end
+set fish_greeting
+if status is-interactive
+#   icat -m 24bit ~/Downloads/yay.jpg   
+#    fastfetch 
+    pokemon-colorscripts -r -s
+# Commands to run in interactive sessions can go here
+end
