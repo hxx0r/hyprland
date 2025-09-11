@@ -2,7 +2,9 @@
 
 конфигчисто для себя
 
-```git clone https://...```
+```git clone https://github.com/hxx0r/hyprland```
 
-```sudo pacman -S hyprpanel wofi```
+
+
+```sudo pacman -Syu hyprpanel wofi wlogout fish```
 
