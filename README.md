@@ -1,4 +1,4 @@
-# Hyprland
+# Hyprland Arch
 
 конфигчисто для себя
 
@@ -10,5 +10,5 @@
 
 ```cd hyprland```
 
-```cp hypr ~/.config```
+```cp hypr -r ~/.config```
 
